@@ -1,0 +1,191 @@
+C:\Users\sefa\source\repos\ödev\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\sefa\source\repos\ödev\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\sefa\source\repos\ödev\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\sefa\source\repos\ödev\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\sefa\source\repos\ödev\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\sefa\source\repos\ödev\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\DUMAN\Desktop\saefa\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\DUMAN\Desktop\saefa\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\DUMAN\Desktop\saefa\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\DUMAN\Desktop\saefa\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\saefa\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\DUMAN\Desktop\saefa\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\erhan\Downloads\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.Up2Date
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.Up2Date
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DUMAN\Desktop\asd\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.csproj.Up2Date
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\DUMAN\Desktop\Ödevv\Görsel Ödevi\ödev\obj\Debug\net8.0-windows\ref\ödev.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ödev.exe
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ödev.deps.json
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ödev.runtimeconfig.json
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.Form1.resources
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.Form2.resources
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.Form4.resources
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.Form5.resources
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.Properties.Resources.resources
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.AssemblyInfo.cs
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.csproj.Up2Date
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\refint\ödev.dll
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.pdb
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ödev.genruntimeconfig.cache
+C:\Users\DUMAN\Desktop\Eyüp_Duman_Safa_Murat_2Ö\E_Ticaret\ödev\obj\Debug\net8.0-windows\ref\ödev.dll

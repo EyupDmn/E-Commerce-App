@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\duman\\desktop\\ey\u00FCp_duman_safa_murat_2\u00F6\\e_ticaret\\\u00F6dev\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|c:\\users\\duman\\desktop\\ey\u00FCp_duman_safa_murat_2\u00F6\\e_ticaret\\\u00F6dev\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9841BF69-8E61-4A0A-B8D5-B0B67C4198FF}|\u00F6dev\\\u00F6dev.csproj|solutionrelative:\u00F6dev\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Business.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Business.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Business.cs",
+              "RelativeToolTip": "\u00F6dev\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:02:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\DataAccess.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\DataAccess.cs",
+              "RelativeToolTip": "\u00F6dev\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:58:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Form5.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Form5.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:34:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Form2.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Form2.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:20:18.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Form4.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Form4.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:34:07.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DUMAN\\Desktop\\Ey\u00FCp_Duman_Safa_Murat_2\u00D6\\E_Ticaret\\\u00F6dev\\Form1.cs",
+              "RelativeDocumentMoniker": "\u00F6dev\\Form1.cs",
+              "ToolTip": "C:\\Users\\DUMAN\\Desktop\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\asd\\G\u00F6rsel \u00D6devi\\\u00F6dev\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:20:06.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
